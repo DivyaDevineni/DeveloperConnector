@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://DivyaPunith:DivyaPunith@devconnector-ayxmm.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "4df069959d3becaa635a",
+  "githubSecret": "807a1ebfed7166d4da77588d4a929e3cb13ccc76"
+}
